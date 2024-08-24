@@ -12,7 +12,7 @@ I'm Alessio Hu and I'm a student the Master's degree program in Computer Science
 
 ## Education
 - Master of Science student in Computer Science and Engineering at `Politecnico di Milano`
-- Bachelor of Science in Computer Science and Engineering (Graduation grade: 110 cum laude/110) at `Sapienza University of Rome`
+- Bachelor of Science in Computer Science and Engineering at `Sapienza University of Rome`
 
 ## Programming Languages
 ![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1)
